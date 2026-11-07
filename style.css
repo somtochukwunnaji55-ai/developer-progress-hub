@@ -50,3 +50,12 @@ footer {
    text-align: center;
    padding: 25px;
 }
+.icon-lion{
+  position: absolute;
+    z-index: 0;
+    opacity: 0.2;
+}
+  .icon-lion h1 {
+    position: relative;
+    z-index: 1;
+}
