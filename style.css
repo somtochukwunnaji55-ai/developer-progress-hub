@@ -46,21 +46,8 @@ h2 {
    margin: 10px 0;
    border: 1px solid #ddd;
    border-radius: 8px;
+}
 footer {
    text-align: center;
    padding: 25px;
-}
-.icon-lion{
-  position: absolute;
-    z-index: 0;
-    opacity: 0.2;
-}
-  .icon-lion h1 {
-    position: relative;
-    z-index: 1;
-}
-  .python-logo {
-    width: 20px;
-    height: 20px;
-    vertical-align: middle;
 }
